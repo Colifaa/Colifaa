@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1 align="center">¡Hola! 👋, Soy Jorge</h1> 
-    <h2 align="center">desarrollador web Full Stack con una sólida base de conocimientos en tecnologías de desarrollo web como HTML, CSS, ChakraUI, Javascript, React, Redux, Node.js, Express, SQL, Sequelize, Supabase y NextJs. Me encanta trabajar en proyectos emocionantes y aprender nuevas habilidades.</h2>
+    <h2 align="center">desarrollador web Full Stack. Me encanta trabajar en proyectos emocionantes y aprender nuevas habilidades.</h2>
 
    <p>Cuando no estoy programando, estoy tocando en mi banda de rock, lo que me ha enseñado mucho sobre trabajo en equipo, creatividad y dedicación. Además, tengo experiencia en trading de criptomonedas, lo que me permite estar al tanto de las últimas tendencias financieras y comprender mejor este emocionante mundo.</p>
 
