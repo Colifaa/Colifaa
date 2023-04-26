@@ -6,7 +6,7 @@
   </head>
   <body>
     <p align="center">
-    <img src="[images/mi_imagen.jpg](https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2021/08/04022409/WHAT-IS-BLOCKCHAIN.png)" width="400" height="400"/>
+    <img src="[[images/mi_imagen.jpg](https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2021/08/04022409/WHAT-IS-BLOCKCHAIN.png)](https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2021/08/04022409/WHAT-IS-BLOCKCHAIN.png)" width="400" height="400"/>
   </p>
     <h1 align="center">¡Hola! 👋, Soy Jorge</h1> 
     <h2 align="center">Desarrollador web Full Stack con experiencia en trading de criptomonedas y habilidades de diseño con AutoCAD.</h2>
