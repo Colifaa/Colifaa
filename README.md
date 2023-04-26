@@ -6,13 +6,11 @@
   </head>
   <body>
     <h1 align="center">¡Hola! 👋, Soy Jorge</h1> 
-    <h2 align="center">desarrollador web Full Stack. Me encanta trabajar en proyectos emocionantes y aprender nuevas habilidades.</h2>
+    <h2 align="center">Desarrollador web Full Stack con experiencia en trading de criptomonedas y habilidades de diseño con AutoCAD para impresión de planos.</h2>
 
-   <p>Cuando no estoy programando, estoy tocando en mi banda de rock, lo que me ha enseñado mucho sobre trabajo en equipo, creatividad y dedicación. Además, tengo experiencia en trading de criptomonedas, lo que me permite estar al tanto de las últimas tendencias financieras y comprender mejor este emocionante mundo.</p>
+En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas habilidades de diferentes áreas. Siempre busco formas de desafiarme a mí mismo y mejorar en lo que hago.</p>
 
 <p>También he trabajado como ayudante de un ingeniero agrimensor, donde he adquirido habilidades en el uso de software de diseño como AutoCAD para imprimir planos. Estas habilidades de diseño son una adición valiosa a mi conjunto de habilidades de desarrollo web y me permiten trabajar en proyectos más complejos y multidisciplinarios.</p>
-
-<p>En mi tiempo libre, disfruto aprendiendo nuevas habilidades y ampliando mis conocimientos en diferentes áreas. Estoy siempre buscando formas de desafiarme a mí mismo y mejorar en lo que hago.</p>
 
 <h3>😍 Algunas de mis habilidades:</h3>
 
