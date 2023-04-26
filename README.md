@@ -6,7 +6,7 @@
   </head>
   <body>
     <h1 align="center">¡Hola! 👋, Soy Jorge</h1> 
-    <h2 align="center">Desarrollador web Full Stack con experiencia en trading de criptomonedas y habilidades de diseño con AutoCAD para impresión de planos.</h2>
+    <h2 align="center">Desarrollador web Full Stack con experiencia en trading de criptomonedas y habilidades de diseño con AutoCAD.</h2>
 
 En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas habilidades de diferentes áreas. Siempre busco formas de desafiarme a mí mismo y mejorar en lo que hago.</p>
 
