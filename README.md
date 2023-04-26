@@ -41,5 +41,5 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
   </body>
 </html>
   <p align="center">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" width="800" height="400"/>
+    <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" />
   </p>
