@@ -43,9 +43,14 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
   <p align="center">
     <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" />
   </p>
-  Projects:
-APP --> Mi Portafolio😍
 
+
+  <head>
+    Projects:
+    <meta charset="UTF-8">
+  
+    <h1 align="center" >APP --> Mi Portafolio😍</h1>
+  </head>
 Deploy:https://portafolio-nms4wmzuj-colifaa.vercel.app/
 
   <p align="center">
