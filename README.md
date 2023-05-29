@@ -46,7 +46,7 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
 
 
   <head>
-   <title> Projects: </title>
+                                                                                                           Projects: 
     <meta charset="UTF-8">
   
     APP --> Mi Portafolio😍
