@@ -49,6 +49,6 @@ APP --> Mi Portafolio😍
 Deploy:https://portafolio-nms4wmzuj-colifaa.vercel.app/
 
   <p align="center">
-    <img src=https://github.com/Colifaa/Colifaa/assets/104874818/0b05e3d0-cdca-4b21-af0c-a602388c6d4c
+    <img src=https://github.com/Colifaa/Colifaa/assets/104874818/d9ab68e5-2e65-4fe9-8d26-e0e7634966bc
 
   </p>
