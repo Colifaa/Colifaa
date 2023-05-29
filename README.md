@@ -61,9 +61,7 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
 <p align="center">Proyectos</p>
 <p align="center">APP --&gt; Mi Portafolio😍</p>
 <p>Deploy: <a href="https://portafolio-nms4wmzuj-colifaa.vercel.app/">https://portafolio-nms4wmzuj-colifaa.vercel.app/</a></p>
-<p align="center">
-  <img src="https://github.com/Colifaa/Colifaa/blob/main/assets/104874818/d9ab68e5-2e65-4fe9-8d26-e0e7634966bc.png" />
-</p>
+
 
 <p align="center">APP --&gt; Lotus😍</p>
 <p>Deploy: <a href="https://lotus-git-development-armax7.vercel.app/">https://lotus-git-development-armax7.vercel.app/</a></p>
