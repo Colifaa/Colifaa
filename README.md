@@ -44,6 +44,11 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
     <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" />
   </p>
   Projects:
-APP --> My Portfolio😍
+APP --> Mi Portafolio😍
 
-Deploy:https://portfolio-marina-marindala.netlify.app/
+Deploy:https://portafolio-nms4wmzuj-colifaa.vercel.app/
+
+  <p align="center">
+    <img src=![image](https://github.com/Colifaa/Colifaa/assets/104874818/0b05e3d0-cdca-4b21-af0c-a602388c6d4c)
+
+  </p>
