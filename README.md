@@ -49,7 +49,7 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
     Projects:
     <meta charset="UTF-8">
   
-    <h1 align="center" >APP --> Mi Portafolio😍</h1>
+    APP --> Mi Portafolio😍
   </head>
 Deploy:https://portafolio-nms4wmzuj-colifaa.vercel.app/
 
