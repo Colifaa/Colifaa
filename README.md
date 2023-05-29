@@ -45,9 +45,9 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
   </p>
 
 
-  <title> 
+  <p> 
     Proyectos
- </title>
+ </p>
   <p> 
     APP --> Mi Portafolio😍
  </p>
