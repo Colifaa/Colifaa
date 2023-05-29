@@ -45,12 +45,10 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
   </p>
 
 
-  <head>
-                                                                                                           Projects: 
-    <meta charset="UTF-8">
+
   
     APP --> Mi Portafolio😍
-  </head>
+ 
 Deploy:https://portafolio-nms4wmzuj-colifaa.vercel.app/
 
   <p align="center">
