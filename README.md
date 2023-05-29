@@ -60,7 +60,7 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
 
 <p align="center">Proyectos</p>
 <p align="center">APP --&gt; Mi Portafolio😍</p>
-<p>Deploy: <a href="https://portafolio-nms4wmzuj-colifaa.vercel.app/">https://portafolio-nms4wmzuj-colifaa.vercel.app/</a></p>
+<p align="center" >Deploy: <a href="https://portafolio-nms4wmzuj-colifaa.vercel.app/">https://portafolio-nms4wmzuj-colifaa.vercel.app/</a></p>
   <p align="center">
   <img src=
        "https://github.com/Colifaa/Colifaa/assets/104874818/c45d44c1-4467-490f-b4f5-123d1c196dbb"/>
@@ -68,13 +68,13 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
 
 
 <p align="center">APP --&gt; Lotus😍</p>
-<p>Deploy: <a href="https://lotus-git-development-armax7.vercel.app/">https://lotus-git-development-armax7.vercel.app/</a></p>
+<p align="center" >Deploy: <a href="https://lotus-git-development-armax7.vercel.app/">https://lotus-git-development-armax7.vercel.app/</a></p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/95050756/234685679-2d9495f1-4ce4-4084-83dd-34deb9e6ba1f.png" />
 </p>
 
 <p align="center">APP --&gt; IziQ-Study😍</p>
-<p>Deploy: <a href="https://izi-q-study7.vercel.app/">https://izi-q-study7.vercel.app/</a></p>
+<p align="center" >Deploy: <a href="https://izi-q-study7.vercel.app/">https://izi-q-study7.vercel.app/</a></p>
 <p align="center">
   <img src="https://github.com/Colifaa/Colifaa/assets/104874818/616ccdeb-c413-4de9-8927-7e3b37a3bd27"/>
 </p>
