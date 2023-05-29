@@ -76,7 +76,7 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
 <p align="center">APP --&gt; IziQ-Study😍</p>
 <p>Deploy: <a href="https://izi-q-study7.vercel.app/">https://izi-q-study7.vercel.app/</a></p>
 <p align="center">
-  <img src="https://github.com/Colifaa/Colifaa/blob/main/assets/104874818/46a11f8a-c818-411a-9b19-7243a4a465b4.png" />
+  <img src="https://github.com/Colifaa/Colifaa/assets/104874818/616ccdeb-c413-4de9-8927-7e3b37a3bd27"/>
 </p>
 
 <p>Gracias por visitar mi perfil de GitHub!</p>
