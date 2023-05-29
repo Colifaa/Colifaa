@@ -43,3 +43,7 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
   <p align="center">
     <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/grid-snake.svg" />
   </p>
+  Projects:
+APP --> My Portfolio😍
+
+Deploy:https://portfolio-marina-marindala.netlify.app/
