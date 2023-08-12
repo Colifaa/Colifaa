@@ -83,7 +83,7 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
 <p align="center">APP --&gt; Bocatto😍</p>
 <p align="center" >Deploy: <a href="https://bocatto.vercel.app/">https://bocatto.vercel.app/</a></p>
 <p align="center">
-  <img src="file:///C:/Users/Win10/Pictures/Saved%20Pictures/bocatttooo.png"/>
+
 </p>
 
 
