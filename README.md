@@ -87,6 +87,14 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
 />
 </p>
 
+<p align="center">OPEN SEA; Nfts😍</p>
+<p align="center" >Link de la coleccion: <a href="https://opensea.io/collection/amur-bomb">https://opensea.io/collection/amur-bomb</a></p>
+<p align="center">
+  <img src="https://github.com/Colifaa/Colifaa/assets/104874818/8e5532dd-4444-4987-af12-b66d26949322"
+/>
+</p>
+
+
 
 
 <p>Gracias por visitar mi perfil de GitHub!</p>
