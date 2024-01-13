@@ -33,8 +33,8 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
 <h3>💡 Pueden contactarme en:</h3>
 <ul>
   <li>Linkedin: https://www.linkedin.com/in/%F0%9F%A4%91-jorge-mathez-598597260/</li>
-  <li>Telefono:+542604224940</li>
-  <li>Correo:Jorgemathez14@gmail.com</li>
+  <li>Telefono: +542604224940</li>
+  <li>Correo: Jorgemathez14@gmail.com</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
