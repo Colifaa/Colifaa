@@ -9,18 +9,16 @@
     <img src="https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2021/08/04022409/WHAT-IS-BLOCKCHAIN.png" width="800" height="400"/>
   </p>
     <h1 align="center">¡Hola! 👋, Soy Jorge</h1> 
-    <h2 align="center">Desarrollador web Full Stack con experiencia en trading de criptomonedas y habilidades de diseño con AutoCAD.</h2>
+    <h2 align="center">Desarrollador web Full Stack y Desarrollador Blockchain.</h2>
 
 En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas habilidades de diferentes áreas. Siempre busco formas de desafiarme a mí mismo y mejorar en lo que hago.</p>
-
-<p>También he trabajado como ayudante de un ingeniero agrimensor, donde he adquirido habilidades en el uso de software de diseño como AutoCAD para imprimir planos. Estas habilidades de diseño son una adición valiosa a mi conjunto de habilidades de desarrollo web y me permiten trabajar en proyectos más complejos y multidisciplinarios.</p>
 
 <h3>😍 Algunas de mis habilidades:</h3>
 
 <ul>
   <li>Desarrollo web Full Stack (HTML, CSS, ChakraUI, Javascript, React, Redux, Node.js, Express, SQL, Sequelize, Supabase, NextJs)</li>
+  <li>Smart Contracts para la creación de NFTs POAPs y criptomonedas</li>
   <li>Trading de criptomonedas</li>
-  <li>Diseño con AutoCAD para impresión de planos</li>
 </ul>
 
 <h3>💡  Mis objetivos para el futuro:</h3>
@@ -28,6 +26,7 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
   <li>Continuar mejorando mis habilidades en desarrollo web y tecnologías relacionadas</li>
   <li>Desarrollar una aplicación móvil para Android</li>
   <li>Ampliar mis conocimientos en diseño gráfico y UX/UI</li>
+  <li>Aprender sobre Inteligencias Artificiales</li>
   <li>¡Seguir aprendiendo y explorando nuevas tecnologías y campos de interés!</li>
 </ul>
 
