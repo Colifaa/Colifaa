@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <h1 align="center" >Bienvenido a mi perfil de GitHub</h1>
+    <h1 align="center" >Bienvenidos</h1>
   </head>
   <body>
     <p align="center">
