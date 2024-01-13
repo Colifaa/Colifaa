@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <h1 align="center" >Bienvenidos</h1>
+    <h1 align="center" >Bienvenido a mi perfil de GitHub</h1>
   </head>
   <body>
     <p align="center">
@@ -28,6 +28,13 @@ En mi tiempo libre, disfruto tocando en mi banda de rock y aprendiendo nuevas ha
   <li>Ampliar mis conocimientos en diseño gráfico y UX/UI</li>
   <li>Aprender sobre Inteligencias Artificiales</li>
   <li>¡Seguir aprendiendo y explorando nuevas tecnologías y campos de interés!</li>
+</ul>
+
+<h3>💡 Pueden contactarme en:</h3>
+<ul>
+  <li>Linkedin:https://www.linkedin.com/in/%F0%9F%A4%91-jorge-mathez-598597260/</li>
+  <li>Telefono:+542604224940</li>
+  <li>Correo:Jorgemathez14@gmail.com</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
